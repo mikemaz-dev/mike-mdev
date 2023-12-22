@@ -4,8 +4,6 @@
 <img align='right' src='https://programming-gifs.cyclic.app' widht=100 height=300 alt='samadpls/Programming-Gifs'></a>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mikhail-mazurkevich&label=Profile%20views&color=0e75b6&style=flat" alt="mikhail-mazurkevich" /> </p>
-
 - 🔭 I’m currently working on **Weather Forecast App**
 
 - 🌱 I’m currently learning **HTML5, CSS3, Javascript, React**
