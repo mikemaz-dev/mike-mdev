@@ -4,8 +4,6 @@
 <img align='right' src='https://programming-gifs.cyclic.app' widht=100 height=300 alt='samadpls/Programming-Gifs'></a>
 
 
-- 🔭 I’m currently working on **Weather Forecast App**
-
 - 🌱 I’m currently learning **HTML5, CSS3, Javascript, React**
 
 - 💬 Ask me about **Android, Windows, Web developing**
