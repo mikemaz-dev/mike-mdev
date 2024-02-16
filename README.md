@@ -11,8 +11,7 @@
 - 📫 How to reach me **mikhail.mazurkevich@gmail.com**
 
 - ⚡ Fun fact **I love listening to music, watching fantastic movies, especially Interstellar. I also like to listen to songs on the guitar**
-
-<h3 align="left">Connect with me:</h3>
+  
 <p align="left">
 </p>
 
