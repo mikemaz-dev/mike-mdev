@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Mikhail Mazurkevich</h1>
 <h3 align="center">A passionate frontend developer from Poland</h3>
+
 <a href='https://github.com/samadpls/Programing-Gifs'>
 <img align='right' src='https://programming-gifs.cyclic.app' widht=100 height=300 alt='samadpls/Programming-Gifs'></a>
+
 
 
 - 🌱 I’m currently learning **HTML5, CSS3, Javascript, React**
