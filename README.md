@@ -1,18 +1,11 @@
 <h1 align="center">Hi 👋, I'm Mikhail Mazurkevich</h1>
 <h3 align="center">A passionate frontend developer from Poland</h3>
 
-<a href='https://github.com/samadpls/Programing-Gifs'>
-<img align='right' src='https://programming-gifs.cyclic.app' widht=100 height=300 alt='samadpls/Programming-Gifs'></a>
-
-
-
 - 🌱 I’m currently learning **HTML5, CSS3, Javascript, React**
 
 - 💬 Ask me about **Android, Windows, Web developing**
 
-- 📫 How to reach me **mikhail.mazurkevich@gmail.com**
-
-- ⚡ Fun fact **I love listening to music, watching fantastic movies, especially Interstellar. I also like to listen to songs on the guitar**
+- ⚡ Fun fact **I love programming, listening to music, watching fantastic movies, especially Interstellar. I also like to listen to songs on the guitar**
   
 <p align="left">
 </p>
