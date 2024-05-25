@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Mikhail Mazurkevich</h1>
 <h3 align="center">Frontend React Developer</h3>
 
-- 🌱 I’m currently learning **HTML5, CSS3, Javascript, React**
+- 🌱 I’m currently learning **Javascript, React**
 
-- 💬 Ask me about **Android, Windows, Web developing**
-
-- ⚡ Fun fact **I love programming, listening to music, watching fantastic movies, especially Interstellar. I also like to listen to songs on the guitar**
+- ⚡ Fun fact **I love programming, traveling, listen to music**
   
 <p align="left">
 </p>
