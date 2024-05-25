@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mikhail Mazurkevich</h1>
-<h3 align="center">A passionate frontend developer from Poland</h3>
+<h3 align="center">Frontend React Developer</h3>
 
 - 🌱 I’m currently learning **HTML5, CSS3, Javascript, React**
 
